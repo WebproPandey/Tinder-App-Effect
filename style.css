@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Gilroy;
+    src: url(./Gilroy-Light.ttf);
+}
+.detailsContainer
+{
+    background: linear-gradient( to bottom , transparent , rgba(0,0,0,0.983));
+}
+.profileimg .showallpost
+{
+    display: none;
+}
